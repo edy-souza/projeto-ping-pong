@@ -20,7 +20,6 @@ let xRaqueteOponente = 585;
 let yRaqueteOponente = 150;
 let velocidadeYOponente;
 
-
 let colidiu = false;
 
 // placar do jogo
@@ -143,3 +142,5 @@ function marcaPonto() {
     ponto.play();
   }
 }
+
+// teste comentario
